@@ -1,0 +1,9 @@
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/bin/Debug/netcoreapp1.1/FriendLetter.deps.json
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.json
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.dev.json
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/obj/Debug/netcoreapp1.1/FriendLetter.csproj.CoreCompileInputs.cache
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/obj/Debug/netcoreapp1.1/FriendLetter.AssemblyInfo.cs
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/bin/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/bin/Debug/netcoreapp1.1/FriendLetter.pdb
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/obj/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/ConnorMcCarthy/Desktop/friendletter.solution/friendletter/obj/Debug/netcoreapp1.1/FriendLetter.pdb
